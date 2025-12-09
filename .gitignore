@@ -7,7 +7,6 @@ local.*
 Thumbs.db
 node_modules/
 *.log
-icons.zip
-downloadAllTabs.zip
+*.zip
 __pycache__/
 
