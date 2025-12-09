@@ -1,0 +1,13 @@
+.
+.git
+.local
+local.*
+.DS_Store
+*.py
+Thumbs.db
+node_modules/
+*.log
+icons.zip
+downloadAllTabs.zip
+__pycache__/
+
